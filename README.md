@@ -7,8 +7,7 @@ Since I was fifteen I have worked part time for a scuba shop in Gore, Oklahoma. 
 
 Using Tableau, I leveraged my small data sample to showcase some interesting statistics:
 
-![Screenshot 2023-03-03 205107](https://user-images.githubusercontent.com/94634170/222869464-fb286aff-8674-44e4-9b2e-7eda964d52bb.png)
-
+![Screenshot 2023-03-14 154933 76](https://user-images.githubusercontent.com/94634170/225126869-2ff01de1-214d-4dbc-a558-9769e99f7842.png)
 
 
 
